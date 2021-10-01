@@ -5,9 +5,7 @@ I'm from India
 - 🌱 I’m currently learning Web Devlopment and DSA.
 - 📫 reach me out through. https://www.linkedin.com/in/chaitanya-bhavsar-3961831bb/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chaitanyabhavsar01=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chaitanyabhavsar01=anuraghazra&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chaitanyabhavsar01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
