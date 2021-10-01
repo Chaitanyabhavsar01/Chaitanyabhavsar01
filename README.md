@@ -4,8 +4,7 @@ I'm from India
 - 👀 I’m interested in Web Devlopment and Contribution to Open Source.
 - 🌱 I’m currently learning Web Devlopment and DSA.
 - 📫 reach me out through. https://www.linkedin.com/in/chaitanya-bhavsar-3961831bb/
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chaitanyabhavsar01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanyabhavsar01)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
