@@ -6,6 +6,7 @@ I'm from India
 - 📫 reach me out through. https://www.linkedin.com/in/chaitanya-bhavsar-3961831bb/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanyabhavsar01)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username==Chaitanyabhavsar01=true&theme=radical)
 
 <!---
 Chaitanyabhavsar01/Chaitanyabhavsar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
