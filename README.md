@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Chaitaya Bhavsar
-#### I'm Currently Pursuing 2nd Year B.tech Degree From LJIET 
- I’m interested in Web Development and Contribution to Open Source.
+#### I'm Currently Pursuing 4th Year B.tech Degree From LJIET 
+ I’m interested in Web Development Domains.
 
  I’m currently learning Web Development and DSA..
 
-Skills: C++/ CSS / HTML / DSA
+Skills: JavaScript | React.js | Bootstrap | Java | HTML | CSS
 
 
 
